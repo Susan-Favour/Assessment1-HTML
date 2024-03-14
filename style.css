@@ -1,0 +1,360 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid green;
+    background-color: green;
+}
+
+#mini-navbar{
+    display: flex;
+    justify-content: space-around;
+    color: black;
+}
+#brand-logo{
+    display: flex;
+    margin-left: 15%;
+}
+
+#images1{
+    display: flex;
+    justify-content: space-around;
+}
+
+#images2{
+    display: flex;
+    justify-content: space-around;
+}
+
+#mini-navbar2{
+    display: flex;
+    justify-content: space-around;
+    color: black;
+}
+
+#images3{
+    display: flex;
+    justify-content: space-around;
+}
+
+#images4{
+    display: flex;
+    justify-content: space-around;
+}
+
+#images5{
+    display: flex;
+    justify-content: space-around;
+}
+
+#images6{
+    display: flex;
+    justify-content: space-around;
+}
+
+#images7{
+    display: flex;
+    justify-content: space-around;
+}
+
+#socials{
+    justify-content: space-around;
+    margin-left: 45%;
+}
+
+#collection1{
+    margin-left: 45%;
+}
+
+#footer{
+    display: flex;
+    gap: 150px;
+    padding: 50px;
+    color: black;
+    background-color: white;
+}
+
+@media only screen and (max-width: 400px){
+    #navbar{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        border: 2px solid green;
+        background-color: green;
+    }
+    
+    #mini-navbar{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        color: black;
+    }
+    #brand-logo{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100px;
+        /*margin-left: 15%;*/
+    }
+    
+    #images1{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #images2{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #mini-navbar2{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        color: black;
+    }
+    
+    #images3{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #images4{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #images5{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #images6{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #images7{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #socials{
+        justify-content: space-around;
+        margin-left: 45%;
+    }
+    
+
+    
+    #footer{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 150px;
+       /* padding: 50px;*/
+        color: black;
+        background-color: white;
+    }
+
+
+
+}
+
+@media only screen and (max-width: 1000px){
+    #navbar{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        border: 2px solid green;
+        background-color: green;
+    }
+    
+    #mini-navbar{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        color: black;
+    }
+    #brand-logo{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100px;
+        /*margin-left: 15%;*/
+    }
+    
+    #images1{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #images2{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #mini-navbar2{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        color: black;
+    }
+    
+    #images3{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #images4{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #images5{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #images6{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #images7{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #socials{
+        justify-content: space-around;
+        margin-left: 45%;
+    }
+    
+
+    
+    #footer{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 150px;
+       /* padding: 50px;*/
+        color: black;
+        background-color: white;
+    }
+
+
+}
+
+@media only screen and (max-width: 1050px){
+    #navbar{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        border: 2px solid green;
+        background-color: green;
+    }
+    
+    #mini-navbar{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        color: black;
+    }
+    #brand-logo{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100px;
+        /*margin-left: 15%;*/
+    }
+    
+    #images1{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #images2{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #mini-navbar2{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        color: black;
+    }
+    
+    #images3{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #images4{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #images5{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #images6{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #images7{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    #socials{
+        justify-content: space-around;
+        margin-left: 45%;
+    }
+    
+
+    
+    #footer{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 150px;
+       /* padding: 50px;*/
+        color: black;
+        background-color: white;
+    }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
